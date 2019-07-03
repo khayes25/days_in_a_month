@@ -1,11 +1,5 @@
 """
-See instructions in CSCI111_A4.pdf
-
-Be sure to rename this file Lastname_A4.py, using your last name
-in place of "Lastname".
-
-Your name: Keon Hayes
-
+@author: Keon Hayes
 """
 
 """
